@@ -17,6 +17,6 @@ export const supportedLanguages=[
   {identifier:"sanskrit",name:"Sanskrit"},
 ]
 
-export const OpenAI_key="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"
+export const OpenAI_key="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"
 
 export const img_cdn_url="https://image.tmdb.org/t/p/w400/"
